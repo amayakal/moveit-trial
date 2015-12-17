@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/devel
+
+Name: industrial_utils
+Description: Description of industrial_utils
+Version: 0.4.2
+Cflags: -I/home/aniket/moveit/src/industrial_core-indigo-devel/industrial_utils/include
+Libs: -L/home/aniket/moveit/devel/lib -lindustrial_utils
+Requires: roscpp urdf

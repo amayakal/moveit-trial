@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/install
+
+Name: industrial_utils
+Description: Description of industrial_utils
+Version: 0.4.2
+Cflags: -I/home/aniket/moveit/install/include
+Libs: -L/home/aniket/moveit/install/lib -lindustrial_utils
+Requires: roscpp urdf

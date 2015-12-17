@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/install
+
+Name: apriltags_ros
+Description: Description of apriltags_ros
+Version: 0.0.3
+Cflags: -I/home/aniket/moveit/install/include -I/usr/include/eigen3
+Libs: -L/home/aniket/moveit/install/lib -lapriltag_detector
+Requires: apriltags image_transport roscpp sensor_msgs geometry_msgs tf cv_bridge message_runtime nodelet std_msgs

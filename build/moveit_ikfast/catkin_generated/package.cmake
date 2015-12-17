@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "moveit_ikfast")
+set(moveit_ikfast_MAINTAINER "G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>, Dave Coleman <davetcoleman@gmail.com>")
+set(moveit_ikfast_DEPRECATED "")
+set(moveit_ikfast_VERSION "3.1.0")
+set(moveit_ikfast_BUILD_DEPENDS )
+set(moveit_ikfast_RUN_DEPENDS )
+set(moveit_ikfast_BUILDTOOL_DEPENDS "catkin")

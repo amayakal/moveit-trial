@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/devel
+
+Name: camera_calibration_parsers
+Description: Description of camera_calibration_parsers
+Version: 1.11.8
+Cflags: -I/home/aniket/moveit/src/image_common/camera_calibration_parsers/include
+Libs: -L/home/aniket/moveit/devel/lib -lcamera_calibration_parsers
+Requires: sensor_msgs

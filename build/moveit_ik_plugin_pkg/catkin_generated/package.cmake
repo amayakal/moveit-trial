@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "moveit_ik_plugin_pkg")
+set(moveit_ik_plugin_pkg_MAINTAINER "aniket <aniket@todo.todo>")
+set(moveit_ik_plugin_pkg_DEPRECATED "")
+set(moveit_ik_plugin_pkg_VERSION "0.0.0")
+set(moveit_ik_plugin_pkg_BUILD_DEPENDS "moveit_core" "liblapack-dev" "roscpp" "tf_conversions" "pluginlib")
+set(moveit_ik_plugin_pkg_RUN_DEPENDS "moveit_core" "liblapack-dev" "roscpp" "tf_conversions" "pluginlib")
+set(moveit_ik_plugin_pkg_BUILDTOOL_DEPENDS "catkin")

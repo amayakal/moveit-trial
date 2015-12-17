@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/install
+
+Name: moveit_resources
+Description: Description of moveit_resources
+Version: 0.5.0
+Cflags: -I/home/aniket/moveit/install/include
+Libs: -L/home/aniket/moveit/install/lib 
+Requires: 

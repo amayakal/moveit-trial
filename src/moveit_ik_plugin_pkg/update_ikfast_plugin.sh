@@ -1,0 +1,1 @@
+rosrun moveit_ikfast create_ikfast_moveit_plugin.py ur5 manipulator moveit_ik_plugin_pkg /home/aniket/moveit/src/moveit_ik_plugin_pkg/src/ur5_manipulator_ikfast_solver.cpp

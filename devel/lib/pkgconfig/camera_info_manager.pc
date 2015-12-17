@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/devel
+
+Name: camera_info_manager
+Description: Description of camera_info_manager
+Version: 1.11.8
+Cflags: -I/home/aniket/moveit/src/image_common/camera_info_manager/include -I/usr/include
+Libs: -L/home/aniket/moveit/devel/lib -lcamera_info_manager
+Requires: roscpp sensor_msgs

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ur5_run")
+set(ur5_run_MAINTAINER "aniket <aniket@todo.todo>")
+set(ur5_run_DEPRECATED "")
+set(ur5_run_VERSION "0.0.0")
+set(ur5_run_BUILD_DEPENDS "moveit_ros_planning_interface")
+set(ur5_run_RUN_DEPENDS "moveit_ros_planning_interface")
+set(ur5_run_BUILDTOOL_DEPENDS "catkin")

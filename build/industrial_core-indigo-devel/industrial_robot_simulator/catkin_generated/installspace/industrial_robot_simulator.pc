@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/install
+
+Name: industrial_robot_simulator
+Description: Description of industrial_robot_simulator
+Version: 0.4.2
+Cflags: 
+Libs: -L/home/aniket/moveit/install/lib 
+Requires: std_msgs sensor_msgs control_msgs trajectory_msgs

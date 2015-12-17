@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/install
+
+Name: simple_message
+Description: Description of simple_message
+Version: 0.4.2
+Cflags: -I/home/aniket/moveit/install/include
+Libs: -L/home/aniket/moveit/install/lib -lsimple_message_dummy
+Requires: roscpp industrial_msgs

@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/devel
+
+Name: openni_launch
+Description: Description of openni_launch
+Version: 1.9.7
+Cflags: 
+Libs: -L/home/aniket/moveit/devel/lib 
+Requires: 

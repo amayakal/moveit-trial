@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/install
+
+Name: ur5_run
+Description: Description of ur5_run
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aniket/moveit/install/lib 
+Requires: 

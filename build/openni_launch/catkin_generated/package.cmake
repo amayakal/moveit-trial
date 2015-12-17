@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "openni_launch")
+set(openni_launch_MAINTAINER "Isaac I.Y. Saito <130s@2000.jukuin.keio.ac.jp>")
+set(openni_launch_DEPRECATED "")
+set(openni_launch_VERSION "1.9.7")
+set(openni_launch_BUILD_DEPENDS "roslaunch")
+set(openni_launch_RUN_DEPENDS "nodelet" "openni_camera" "rgbd_launch")
+set(openni_launch_BUILDTOOL_DEPENDS "catkin")

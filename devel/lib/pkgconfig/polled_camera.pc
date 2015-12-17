@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/devel
+
+Name: polled_camera
+Description: Description of polled_camera
+Version: 1.11.8
+Cflags: -I/home/aniket/moveit/devel/include -I/home/aniket/moveit/src/image_common/polled_camera/include
+Libs: -L/home/aniket/moveit/devel/lib -lpolled_camera
+Requires: roscpp sensor_msgs

@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/devel
+
+Name: image_transport_tutorial
+Description: Description of image_transport_tutorial
+Version: 0.0.0
+Cflags: -I/home/aniket/moveit/devel/include
+Libs: -L/home/aniket/moveit/devel/lib 
+Requires: 

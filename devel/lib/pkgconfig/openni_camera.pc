@@ -1,0 +1,8 @@
+prefix=/home/aniket/moveit/devel
+
+Name: openni_camera
+Description: Description of openni_camera
+Version: 1.9.4
+Cflags: -I/home/aniket/moveit/devel/include -I/home/aniket/moveit/src/openni_camera/include -I/usr/include -I/usr/include/ni
+Libs: -L/home/aniket/moveit/devel/lib -lopenni_nodelet -lopenni_driver -l:/usr/lib/x86_64-linux-gnu/libboost_system.so -l:/usr/lib/x86_64-linux-gnu/libboost_filesystem.so -l:/usr/lib/x86_64-linux-gnu/libboost_thread.so -l:/usr/lib/x86_64-linux-gnu/libpthread.so -lOpenNI
+Requires: camera_info_manager dynamic_reconfigure image_transport nodelet roscpp
